@@ -53,7 +53,6 @@ function generateMarkdown(data) {
   ${renderLicenseLink(data.license)}
   - [Test](#test)
   - [Credit](#credit)
-  - [Contributing](#Contributing)
   - [Question](#Question)
  
 
@@ -73,7 +72,7 @@ function generateMarkdown(data) {
   ${data.test}
 
   ## Credit
-  ${data.credits}
+  ${data.credit}
 
   ## License
   ${data.license}

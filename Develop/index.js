@@ -38,7 +38,7 @@ const questions = [
       {
         type: 'input',
         message: 'List your collaborates',
-        name: 'credits',
+        name: 'credit',
     },
     {
       type: 'checkbox',
