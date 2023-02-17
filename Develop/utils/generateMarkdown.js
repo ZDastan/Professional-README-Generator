@@ -73,16 +73,13 @@ function generateMarkdown(data) {
   ${data.test}
 
   ## Credit
-  ${data.credit}
-
-  ## Contributing
-  ${data.contributing}
+  ${data.credits}
 
   ## License
   ${data.license}
 
   ## Question
-  ${data.github}
+  ${data.question}
   ${data.email}
 
 

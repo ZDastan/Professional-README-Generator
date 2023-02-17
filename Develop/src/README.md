@@ -1,6 +1,6 @@
 
-  # jdkss
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  # readme gen
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   ## Table of Content
   - [Project description](#Description)
   - [Installation](#installation)
@@ -14,31 +14,28 @@
 
 
   ## Description
-  hsnd
+  readme input
 
   ## Installation
-  bdnd
+  dowload
 
   ## Usage
-  bdnnd
+  yes
 
   ## License
-    This project is licenced under APACHE 2.O Lincense
+    This project is licenced under GVL-GPL 3.0 Lincense
 
   ## Test
-  bdnbd
+  no
 
   ## Credit
-  undefined
-
-  ## Contributing
-  undefined
+  ahmet
 
   ## License
-  APACHE 2.O
+  GVL-GPL 3.0
 
   ## Question
-  undefined
-  ndnmnd
+  zehrad
+  zehradastan@
 
 
