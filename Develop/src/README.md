@@ -1,5 +1,5 @@
 
-  # my readme
+  # Profesional README Generator
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Table of Content
   - [Project description](#Description)
@@ -13,28 +13,28 @@
 
 
   ## Description
-  gsgsdgd
+  This is create a command-line application that dynamically generate a professional README.md file from a users input.
 
   ## Installation
-  hshsj
+  vs code , inquirer package , gitignore ,package json
 
   ## Usage
-  hshbs
+  ok
 
   ## License
     This project is licenced under MIT Lincense
 
   ## Test
-  bsnnxs
+  yes
 
   ## Credit
-  bsbsb
+  none
 
   ## License
   MIT
 
   ## Question
-  nsnsn
-  nsnns
+  ZDastan
+  zehradastan@hotmail.com
 
 
