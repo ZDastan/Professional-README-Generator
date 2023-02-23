@@ -1,6 +1,6 @@
 
-  # readme gen
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  # nhh
+  undefined
   ## Table of Content
   - [Project description](#Description)
   - [Installation](#installation)
@@ -8,34 +8,33 @@
    - [License](#license)
   - [Test](#test)
   - [Credit](#credit)
-  - [Contributing](#Contributing)
   - [Question](#Question)
  
 
 
   ## Description
-  readme input
+  bjjm
 
   ## Installation
-  dowload
+  vghhn
 
   ## Usage
-  yes
+  hjjn
 
   ## License
-    This project is licenced under GVL-GPL 3.0 Lincense
+    This project is licenced under MIT Lincense
 
   ## Test
-  no
+  jjnn
 
   ## Credit
-  ahmet
+  bjjmm
 
   ## License
-  GVL-GPL 3.0
+  MIT
 
   ## Question
-  zehrad
-  zehradastan@
+  bjjn
+  vhhn
 
 
