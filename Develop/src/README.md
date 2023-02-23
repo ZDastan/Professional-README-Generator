@@ -1,11 +1,11 @@
 
-  # abc
-  undefined
+  # my readme
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Table of Content
   - [Project description](#Description)
   - [Installation](#installation)
   - [Usage](#usage)
-  undefined
+   - [License](#license)
   - [Test](#test)
   - [Credit](#credit)
   - [Question](#Question)
@@ -13,27 +13,28 @@
 
 
   ## Description
-  ajhhd
+  gsgsdgd
 
   ## Installation
-  jdkk
+  hshsj
 
   ## Usage
-  ndjdk
-
-  undefined
-
-  ## Test
-  ndxkkd
-
-  ## Credit
-  bxjkdm
+  hshbs
 
   ## License
-  None
+    This project is licenced under MIT Lincense
+
+  ## Test
+  bsnnxs
+
+  ## Credit
+  bsbsb
+
+  ## License
+  MIT
 
   ## Question
-  bdjjdm
-  bdnxjdm
+  nsnsn
+  nsnns
 
 

@@ -41,7 +41,7 @@ const questions = [
         name: 'credit',
     },
     {
-      type: 'checkbox',
+      type: 'list',
       name: 'license',
       message: 'What is your preferred license?',
       choices:[
